@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlffServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlffServer_jar</output-path>
+    <root id="archive" name="PlffServer.jar">
+      <element id="module-output" name="PlffServer" />
+    </root>
+  </artifact>
+</component>
